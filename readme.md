@@ -18,7 +18,7 @@ I found the [bootstrap framework](https://getbootstrap.com/) most suitable for t
 [Cloudflare](https://cloudflare.com) offers domain name registration at great value. They claim "You pay what we pay — you won’t find better value." and I tend to believe them. At the time of writing, registering a .com domain at Cloudflare sets you back $8.57 a year.
 
 ## Don't pay anything for webhosting
-The awesomness of Cloudflare doesn't stop at premium-free domain registration. Cloudflare offers a service called [Cloudflare Pages](https://pages.cloudflare.com/), a JAMstack platform for frontend developers to collaborate and deploy websites. And for a simple, single landing page like mine, it's totally [free](https://developers.cloudflare.com/pages/platform/limits/).
+The awesomeness of Cloudflare doesn't stop at premium-free domain registration. Cloudflare offers a service called [Cloudflare Pages](https://pages.cloudflare.com/), a JAMstack platform for frontend developers to collaborate and deploy websites. And for a simple, single landing page like mine, it's totally [free](https://developers.cloudflare.com/pages/platform/limits/).
 
 ## Make the website load fast, all over the world
 The fact that you can simply use the bootstrap framework for free by including a single line of code in your HTML file is great. And you can make it load faster by using a [faster CDN](https://www.belugacdn.com/best-cdn-for-bootstrap/). But even by selecting the fastest Bootstrap CDN, a lot of unnecessary CSS code is loaded since I use only a fraction of it for my simple design. 

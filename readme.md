@@ -1,4 +1,4 @@
-# My overengineerd personal domain landing page
+# My over-engineerd personal domain landing page
 A wise man once told me to "always register your personal domain name as long as it is available." So, I did.
 
 While I had no clear purpose for the domain (yet), I did not want it to show the default domain registrar landing page. As an international graduate student and cloud freak I:

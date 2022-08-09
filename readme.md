@@ -24,7 +24,7 @@ The awesomeness of Cloudflare doesn't stop at premium-free domain registration. 
 The fact that you can simply use the bootstrap framework for free by including a single line of code in your HTML file is great. And you can make it load faster by using a [faster CDN](https://www.belugacdn.com/best-cdn-for-bootstrap/). But even by selecting the fastest Bootstrap CDN, a lot of unnecessary CSS code is loaded since I use only a fraction of it for my simple design. 
 
 ### Purify (minimize) CSS
-I used the PurifyCSS optimization tool to scan my HTML & JS source code, _removed_ the _unused CSS_ selectors. This shrank the size of my CSS with 90%. I downloaded the style.css file and added it to my respository, which in addition decreased the amount of external requests.
+I used the [PurifyCSS](https://purifycss.online/) optimization tool to scan my HTML & JS source code and remove the unused CSS selectors. This shrank the size of my CSS with 90%. I downloaded the style.css file and added it to my respository which, in addition, decreased the amount of external requests.
 
 ### Minimize Google Analytics
 

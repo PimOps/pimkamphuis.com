@@ -9,10 +9,10 @@ While I had no clear purpose for the domain (yet), I did not want it to show the
  - wanted the website to load fast all over the world (with good GTmetrix and Google PageSpeed Insights scores)
  - wanted to be able to edit the website easily and quickly from any device with automatic versioning
 
-How did I do it?
+How did succeed?
 
 ## Clean, mobile friendly website with minimal design efforts
-I found the [bootstrap framework](https://getbootstrap.com/) suitable for this job, created a .html file in VScode and linked to the bootstrap stylesheet in the header of my page.
+I found the [bootstrap framework](https://getbootstrap.com/) suitable for this job, created a index.html file in VScode and linked to the bootstrap stylesheet in the header of my page.
 
 ## Don't pay a premium for a domain regisration
 [Cloudflare](https://cloudflare.com) offers domain name registration at great value. They claim "You pay what we pay — you won’t find better value." and I tend to believe them. At the time of writing, registering a .com domain at Cloudflare sets you back $8.57 a year.
@@ -24,7 +24,7 @@ But the awesomness of Cloudflare doesn't stop at premium-free domain registratio
 The fact that you can simply use the bootstrap framework for free by including a single line of code in your HTML file is great. And you can make it load faster by using a [faster CDN](https://www.belugacdn.com/best-cdn-for-bootstrap/). But even by selecting the fastest Bootstrap CDN, a lot of unnecessary CSS code is loaded since I use only a fraction of it for my simple design. 
 
 ### Purify (minimize) CSS
-I used the PurifyCSS optimization tool to scan my HTML & JS source code, _removed_ the _unused CSS_ selectors. This shrank the size of my CSS with 90%. I downloaded it the file and added it to my respository to decrease the amount of external requests.
+I used the PurifyCSS optimization tool to scan my HTML & JS source code, _removed_ the _unused CSS_ selectors. This shrank the size of my CSS with 90%. I downloaded the style.css file and added it to my respository, which in addition decreased the amount of external requests.
 
 ### Minimize Google Analytics
 

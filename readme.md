@@ -12,7 +12,7 @@ While I had no clear purpose for the domain (yet), I did not want it to show the
 How did succeed?
 
 ## Clean, mobile friendly website with minimal design efforts
-I found the [bootstrap framework](https://getbootstrap.com/) suitable for this job, created a index.html file in VScode and linked to the bootstrap stylesheet in the header of my page.
+I found the [bootstrap framework](https://getbootstrap.com/) most suitable for this job, created a index.html file in VScode and linked the bootstrap stylesheet in the header of my page.
 
 ## Don't pay a premium for a domain registration
 [Cloudflare](https://cloudflare.com) offers domain name registration at great value. They claim "You pay what we pay — you won’t find better value." and I tend to believe them. At the time of writing, registering a .com domain at Cloudflare sets you back $8.57 a year.

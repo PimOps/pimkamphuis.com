@@ -12,7 +12,7 @@ While I had no clear purpose for the domain (yet), I did not want it to show the
 How did succeed?
 
 ## Clean, mobile friendly website with minimal design efforts
-I found the [bootstrap framework](https://getbootstrap.com/) most suitable for this job, created a index.html file in VScode and linked the bootstrap stylesheet in the header of my page.
+I found the [bootstrap framework](https://getbootstrap.com/) most suitable for this job, created an index.html file in VScode and linked the bootstrap stylesheet in the header of my page.
 
 ## Don't pay a premium for a domain registration
 [Cloudflare](https://cloudflare.com) offers domain name registration at great value. They claim "You pay what we pay — you won’t find better value." and I tend to believe them. At the time of writing, registering a .com domain at Cloudflare sets you back $8.57 a year.
@@ -33,3 +33,6 @@ Another awesome thing about Cloudflare Pages is that it automatically deploys th
 
 ## Edit the website easily, anywhere with automatic versioning
 By pushing my files to GitHub, I can access and edit the code directly using the [online file editor](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
+
+## What about the e-mailaddress
+Per e-mail I received a question about the @pimkamphuis.com e-mailaddress that is shown in the website: "Do you also use an e-mail service for free?" 

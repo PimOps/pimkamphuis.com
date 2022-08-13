@@ -1,7 +1,7 @@
 # My over-engineerd personal domain landing page
 A wise man once told me to "always register your personal domain name as long as it is available." So, I did.
 
-While I had no clear purpose for the domain (yet), I did not want it to show the default domain registrar landing page. As an international graduate student and cloud freak I:
+While I had no clear purpose for the domain, I did not want it to show the default domain registrar landing page. As an international graduate student and cloud freak I:
 
  - wanted a minimal, good looking and mobile friendly page with my personal details without spending much time on design
  - did not want to pay a premium for the .com domain registration
